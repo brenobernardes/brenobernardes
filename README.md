@@ -8,7 +8,4 @@ Comecei a minha trajetória na área da tecnologia quando me formei no curso Té
     <a href="https://www.linkedin.com/in/breno-bernardes/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
     </a>
-    <a href="mailto:breno.pbernardes@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
 </p>
